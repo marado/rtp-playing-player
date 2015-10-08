@@ -1,4 +1,4 @@
-+ RTP Playing Player
+# RTP Playing Player
 
 RTP Play was a bad site.
 One day, it was changed to a worse site.
@@ -8,7 +8,7 @@ This script was made so that, given a link to rtp play (a specific program), it 
 
 PS - If you're looking to see RTP *live*, check out https://github.com/marado/streaming-pt .
 
-+ Usage
+# Usage
 
 ```
 rpp.sh http://www.rtp.pt/play/p1781/e207243/voz-do-cidadao
