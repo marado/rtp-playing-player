@@ -5,4 +5,4 @@ if [ $# -eq 0 ]
     exit
 fi
 
-mplayer $(wget $1 -o /dev/null -O -|grep hls_url |cut -d: -f2-|cut -d\" -f2)
+mplayer https://streaming-ondemand.rtp.pt/$(wget $1 -o /dev/null -O -|grep fileKey|cut -d\" -f2)
