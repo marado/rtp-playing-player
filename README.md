@@ -6,7 +6,7 @@ Nowadays, it is a totally unusable site.
 
 This script was made so that, given a link to rtp play (a specific program), it will let you actually see the program.
 
-PS - If you're looking to see RTP *live*, check out https://github.com/marado/streaming-pt .
+PS - If you're looking to see RTP *live*, check out https://github.com/marmelo/streaming-pt .
 
 # Usage
 
